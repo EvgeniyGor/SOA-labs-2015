@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace Serialization
 {
-    public class Program
+    public static class Program
     {
         public static void Main(string[] args)
         {
