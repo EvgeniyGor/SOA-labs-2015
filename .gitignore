@@ -8,6 +8,8 @@
 
 # Build results
 
+packages/
+
 build.libs/
 build.tests/
 [Dd]ebug/

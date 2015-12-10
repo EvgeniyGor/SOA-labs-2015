@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serializat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationTests", "SerializationTests\SerializationTests.csproj", "{EA0A4184-7576-454A-84C5-B786848E1936}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClient", "HttpClient\HttpClient.csproj", "{E96FA778-A9E5-4F60-87F9-83AD7DA8254C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServer", "HttpServer\HttpServer.csproj", "{89A1B9AF-6B4C-4004-97A4-BABB78C1BF0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{EA0A4184-7576-454A-84C5-B786848E1936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA0A4184-7576-454A-84C5-B786848E1936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA0A4184-7576-454A-84C5-B786848E1936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96FA778-A9E5-4F60-87F9-83AD7DA8254C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96FA778-A9E5-4F60-87F9-83AD7DA8254C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96FA778-A9E5-4F60-87F9-83AD7DA8254C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96FA778-A9E5-4F60-87F9-83AD7DA8254C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A1B9AF-6B4C-4004-97A4-BABB78C1BF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A1B9AF-6B4C-4004-97A4-BABB78C1BF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A1B9AF-6B4C-4004-97A4-BABB78C1BF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A1B9AF-6B4C-4004-97A4-BABB78C1BF0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
